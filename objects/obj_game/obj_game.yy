@@ -11,8 +11,8 @@
   "name":"obj_game",
   "overriddenProperties":[],
   "parent":{
-    "name":"Framework",
-    "path":"folders/Objects/Framework.yy",
+    "name":"Global",
+    "path":"folders/Objects/Global.yy",
   },
   "parentObjectId":null,
   "persistent":true,

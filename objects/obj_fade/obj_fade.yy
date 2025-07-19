@@ -11,8 +11,8 @@
   "name":"obj_fade",
   "overriddenProperties":[],
   "parent":{
-    "name":"Framework",
-    "path":"folders/Objects/Framework.yy",
+    "name":"Global",
+    "path":"folders/Objects/Global.yy",
   },
   "parentObjectId":null,
   "persistent":true,

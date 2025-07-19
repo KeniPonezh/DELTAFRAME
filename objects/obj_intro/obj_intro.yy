@@ -10,8 +10,8 @@
   "name":"obj_intro",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Placeholder",
+    "path":"folders/Objects/Placeholder.yy",
   },
   "parentObjectId":null,
   "persistent":false,
