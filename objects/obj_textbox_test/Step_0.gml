@@ -6,6 +6,7 @@ if(place_meeting(x,y,obj_mainkoro) && !instance_exists(obj_overworld_dialogue) &
         text[1] = "patrick."
         text[2] = "...sandy?"
         text[3] = "...squidward!"
+        text[4] = "So. Imagine.\nYou wake up at your home.\nBut the home isn't actually\nYOURS.\nIt's Sans' home.\nHe slept with your mother.\nYeah?\nThat happened to NOBODY.\nBut Sans' slept with Toriel.\nToriel had SEX\nwith a REAL BONER.\nThis is concerning.\nVery. Very. Very. Very.\nConcerning............................"
     }
 }
 

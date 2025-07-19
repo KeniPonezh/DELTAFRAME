@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_FUCKOFF,0,x + 320/2,y + 240/2,60/3,60/3,0,c_white,1)

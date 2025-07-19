@@ -92,3 +92,5 @@ switch (animdir){
         animation = spr_frisk_up
     break
 }
+
+if(keyboard_check_pressed(ord("F"))) instance_create_depth(x,y,depth,obj_battle)
