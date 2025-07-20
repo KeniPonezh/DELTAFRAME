@@ -26,4 +26,4 @@ repeat(abs(vsp) ){
     y += sign(vsp)
 }
 
- if(!collision_rectangle(bbox_left + 2,bbox_top + 2,bbox_right - 2,bbox_bottom - 2,obj_battlebox,false,true)) show_debug_message($"OUTSIDE : {current_time}")
+if(!collision_rectangle(bbox_left + 2,bbox_top + 2,bbox_right - 2,bbox_bottom - 2,obj_battlebox,false,true)) show_debug_message($"OUTSIDE : {current_time}")
