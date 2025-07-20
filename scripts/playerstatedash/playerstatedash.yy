@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playerstatedash",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playerstatedash",
+  "parent":{
+    "name":"NewCharacterScripts",
+    "path":"folders/Scripts/NewCharacterScripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

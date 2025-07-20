@@ -1,3 +1,8 @@
+/// @description Player inputs (need a remake cause this is ass) - MM
+//There's a better way to do all this consisting in 15 lines of code
+//And can be done with tiled collissions that are less taxating on the device
+
+//Input Keys
 var left, right, up, down, run
 left = keyboard_check(vk_left)
 right = keyboard_check(vk_right)
@@ -94,3 +99,19 @@ switch (animdir){
 }
 
 if(keyboard_check_pressed(ord("F"))) instance_create_depth(x,y,depth,obj_battle)
+
+
+//Example of better character movement handling and inputs that can be scaled
+
+// keyLeft = keyboard_check(vk_left)
+// keyRight = keyboard_check(vk_right)
+// keyUp = keyboard_check(vk_up)
+// keyDown = keyboard_check(vk_down)
+// keyInteract = keyboard_check_pressed(ord("Z"))
+// keyItem = keyboard_check_pressed(ord("X")) || keyboard_check_pressed(mb_left);
+
+//Character Movement Handling
+// inputDirection = point_direction(0,0,keyRight-keyLeft,keyDown-keyUp);
+// inputMagnitude = (keyRight-keyLeft != 0) || (keyDown-keyUp != 0);
+
+// if (!global.gamePaused) script_execute(state); //this is an example of screen pause don't mind it

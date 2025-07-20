@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playeranimscript",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playeranimscript",
+  "parent":{
+    "name":"NewCharacterScripts",
+    "path":"folders/Scripts/NewCharacterScripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

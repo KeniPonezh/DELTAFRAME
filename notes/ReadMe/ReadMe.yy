@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"ReadMe",
+  "name":"ReadMe",
+  "parent":{
+    "name":"NewCharacterScripts",
+    "path":"folders/Scripts/NewCharacterScripts.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
