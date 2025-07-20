@@ -1,6 +1,6 @@
 {
   "$GMProject":"v1",
-  "%Name":"out of control jam",
+  "%Name":"deltarune",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -47,7 +47,7 @@
   "MetaData":{
     "IDEVersion":"2024.13.1.193",
   },
-  "name":"out of control jam",
+  "name":"deltarune",
   "resources":[
     {"id":{"name":"font_textbox_def","path":"fonts/font_textbox_def/font_textbox_def.yy",},},
     {"id":{"name":"obj_battle","path":"objects/obj_battle/obj_battle.yy",},},
