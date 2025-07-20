@@ -1,5 +1,6 @@
 
-<img width="192" height="58" alt="Deltaframe_LOGO" src="https://github.com/user-attachments/assets/8a9831ed-8635-4495-b5f0-aaf83ea92176" />
+<img width="768" height="232" alt="Deltaframe_LOGO" src="https://github.com/user-attachments/assets/c1c8a99b-eb51-4a18-b346-a5d4c0556429" />
+
 Deltarune Framework (GMS2)
 
 
