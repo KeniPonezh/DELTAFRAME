@@ -6,5 +6,3 @@ spr_height = sprite_height
 
 sinfactor = 10
 factor = 64
-
-obj_mainkoro.visible = false

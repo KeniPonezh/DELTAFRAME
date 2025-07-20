@@ -1,0 +1,1 @@
+if(turn= 3) attacktimer++
