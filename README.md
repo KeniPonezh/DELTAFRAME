@@ -11,8 +11,11 @@ Overview:
  This framework provides essential systems and tools to help you build a game inspired by Deltarune, at least it is supposed to
 
 Features (as of now)
+
     Player Movement & Interaction
+    
     Map & Room Management
+    
     Battle System (we are getting there)
 
 Requirements
