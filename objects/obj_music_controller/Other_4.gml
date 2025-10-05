@@ -1,0 +1,1 @@
+if(!audio_is_playing(current)) audio_play_sound(current,0,true)
